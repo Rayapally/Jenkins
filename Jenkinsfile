@@ -5,7 +5,7 @@ pipeline {
             steps {
                 
                     
-                    print("Hello, World!")
+                    echo "Hello World"
                 
                 
             }
